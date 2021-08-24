@@ -1,6 +1,6 @@
 # Backend Engineer Challange
 
-## Greetings :sparkles
+## Greetings :sparkles:
 
 At Syeta Labs we are keen to see your passion and coding style.
 So let's get started.
