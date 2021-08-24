@@ -9,7 +9,7 @@ So let's get started.
 
 Your task is to implement a simple Event Management system with a REST API or GraphQL API.
 
-### Requirements :memo: - Scout
+### Basic Requirements :memo: - Scout
 
 - Admins should be able to submit an event to the platform with `title`, `description`, `banner image`, `time` and `venue`. There can be any additional properties as you wish.
 
