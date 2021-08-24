@@ -47,4 +47,6 @@ Since you are architecting this software system, we will ask you questions about
 
 - Write a good README about how to test your system.
 
+- Send an email to hr@syetalabs.io after completion
+
 **Happy Coding :tada:**
