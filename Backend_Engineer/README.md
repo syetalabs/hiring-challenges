@@ -9,18 +9,18 @@ So let's get started.
 
 Your task is to implement a simple Event Management system with a REST API or GraphQL API.
 
-### Requirements :memo: - Level Scout
+### Requirements :memo: - Scout
 
 - Admins should be able to submit an event to the platform with `title`, `description`, `banner image`, `time` and `venue`. There can be any additional properties as you wish.
 
 - Users should be able to see `active events`, `past events`, `future events` and events in a date range.
 
-### Additional Tasks :white_check_mark: - Level Pioneer
+### Additional Tasks :white_check_mark: - Pioneer
 
 - Users should be able to vote for events as well.
 Also, some users might want to sort events based on popularity too.
 
-### Challenging Tasks :fire: - Level Legend
+### Challenging Tasks :fire: - Legend
 
 - Additionally, you can implement the system to stream new events notifications to users(You can use WebSockets).
 
