@@ -44,7 +44,7 @@ However this is not limited to the above scope, you can add any additional featu
 
 But we don't expect it to be perfect or bulletproof. :gun:
 
-> It should not take more than a day to complete the challenge :construction:
+> It should not take more than 2 days to complete the challenge :construction:
 
 You can use any programming language to implement this.
 We prefer **Android/Java/kotlin**, **Flutter**, **React Native** and **Swift**.
